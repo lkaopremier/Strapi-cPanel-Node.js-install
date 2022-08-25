@@ -1,4 +1,4 @@
-![Strapi](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d2ecfe9f-fa41-4caa-98e6-1354850c39d1/Logo.WhiteBackground.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211205T133805Z&X-Amz-Expires=86400&X-Amz-Signature=a219816661f4556bb53202a46539fa15e9d53a1cf7bdc7098a110de27124272d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Logo.WhiteBackground.png%22&x-id=GetObject)
+![Strapi](https://strapi.io/assets/strapi-logo-dark.svg)
 
 ## _cPanel Node.js install_
 ---
